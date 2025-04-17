@@ -1,0 +1,28 @@
+{
+  "name": "mozbet-firebase",
+  "version": "1.0.0",
+  "description": "Backend do MozBet com Firebase Firestore e notificações via SMS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.10.1",
+    "africastalking": "^1.3.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "mozbet",
+    "backend",
+    "firebase",
+    "firestore",
+    "api",
+    "africastalking"
+  ],
+  "author": "Alex Macuvel",
+  "license": "MIT"
+}
