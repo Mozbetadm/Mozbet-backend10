@@ -15,14 +15,6 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "keywords": [
-    "mozbet",
-    "backend",
-    "firebase",
-    "firestore",
-    "api",
-    "africastalking"
-  ],
   "author": "Alex Macuvel",
   "license": "MIT"
 }
